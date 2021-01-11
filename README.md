@@ -1,2 +1,2 @@
 # ProdutoServiceSeed
-Criação de um api de consulta de produtos para estudo de microserviços com SpringBoot
+Criação de um API de consulta de produtos para estudo de microserviços com SpringBoot
